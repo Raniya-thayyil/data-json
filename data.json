@@ -1,7 +1,7 @@
 {
     "landingPage" : {
         "backgroundImage" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain",
-        "desktopBackground" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3840&hei=1400&qlt=100&fmt=png-alpha&fit=constrain",
+        "desktop-background" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3840&hei=1400&qlt=100&fmt=png-alpha&fit=constrain",
         "heading" : "AZURE. INVENT WITH PURPOSE.",
         "mainHeading" : "Learn, connect, and explore",
         "paragraph" : "Envision and create intelligent apps with the latest technologies announced at Microsoft Build. Get started now with pay-as-you-go pricing. There’s no upfront commitment—cancel anytime. Or try Azure free for up to 30 days."
@@ -56,39 +56,39 @@
     ],
      "Featured" : [
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/virtual-machines?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "Deploy VMs in seconds",
-            "link" : "Azure Virtual machines"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OpenAI-icon?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fit=constrain",
+            "caption" : "Apply advanced coding and language models to a variety of use casess",
+            "link" : "Azure OpenAI service"
 
         },
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/vm-linux?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "Provision VMs for Ubuntu, Red Hat, SUSE, and other popular distributions",
-            "link" : "Linux virtual machines (VMs) in Azure"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/dev-box?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fit=constrain",
+            "caption" : "Streamline development with secure, ready-to-code workstations in the cloud",
+            "link" : "Microsoft Dev Box"
 
         },
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/vm-sql-server?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "Provision VMs for Ubuntu, Red Hat, SUSE, and other popular distributions",
-            "link" : "SQL Server on Azure Virtual Machines"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/virtual-machines-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fit=constrain",
+            "caption" : "Create Linux and Windows virtual machines in seconds",
+            "link" : "Azure Virtual Machines"
 
         },
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/vm-windows?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "Deploy scalable, protected virtualized infrastructure",
-            "link" : "Windows Virtual Machines"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/machine-learning-service-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fit=constrain",
+            "caption" : "Use an enterprise-grade service for the end-to-end machine learning lifecycle",
+            "link" : "Azure Machine Learning"
 
         },
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/functions?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "Trigger apps with serverless computing",
-            "link" : "Azure Functions"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/azure-devops?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fit=constrain",
+            "caption" : "TShare code, track work, and ship software with modern dev services",
+            "link" : "Azure DevOps"
 
         },
         {
-            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/app-service?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "caption" : "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/app-service?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=36&qlt=75&fit=constrain",
-            "link" : "Azure App Service"
+            "icon" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/deployment-environment?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fmt=png-alpha&fit=constrain",
+            "caption" : "Quickly spin up app infrastructure environments with project-based templates",
+            "link" : "Azure Deployment Environments"
 
         }
        
