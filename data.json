@@ -1,7 +1,7 @@
 {
     "landingPage" : {
         "backgroundImage" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain",
-        "desktop-background" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3840&hei=1400&qlt=100&fmt=png-alpha&fit=constrain",
+        "desktopBackground" : "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSBuild-HPHero-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3840&hei=1400&qlt=100&fmt=png-alpha&fit=constrain",
         "heading" : "AZURE. INVENT WITH PURPOSE.",
         "mainHeading" : "Learn, connect, and explore",
         "paragraph" : "Envision and create intelligent apps with the latest technologies announced at Microsoft Build. Get started now with pay-as-you-go pricing. There’s no upfront commitment—cancel anytime. Or try Azure free for up to 30 days."
